@@ -1,5 +1,5 @@
 Heroku buildpack: Python, Numpy, and Scipy (Python 2.7 only)
-====================================================
+------------------------------------------------------------
 
 
 This custom buildpack based on [thenovice's] (https://github.com/thenovices/heroku-buildpack-scipy).  Buildpacks
